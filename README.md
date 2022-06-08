@@ -11,7 +11,7 @@
 - Reading
 - Tennis
 
-
+![pixlr_image#3](https://user-images.githubusercontent.com/106996964/172539631-20accc30-0f2b-4558-b515-e52c5df5d525.jpg)
 
 **What I want to learn in Computer Science**
 I want to learn how I can imporove the skills that I already have for coding.
